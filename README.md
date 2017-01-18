@@ -1,2 +1,3 @@
 # Juegazo
-Juego hecho en un tarde del solsticio de invierno (estacionalmente inspirado por la desolación y la destrucción)
+Juego **Asteroids** realizado con [*libgdx*][libgdx] para aprender su uso y funcionamiento
+[libgdx]: https://libgdx.badlogicgames.com/
